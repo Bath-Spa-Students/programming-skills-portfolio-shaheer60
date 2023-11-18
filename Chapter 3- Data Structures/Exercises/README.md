@@ -80,10 +80,10 @@ You just found out that your new dinner table won’t arrive in time for the din
 &nbsp;
 &nbsp;
 
+he locations in a list. Make sure the list is not in alphabetical order.
 ## Exercise 7: Seeing the World :ballot_box_with_check:
 Think of at least five places in the world you’d like to visit.
-•	 Store the locations in a list. Make sure the list is not in alphabetical order.
-
+•	 Store t
 •	 Print your list in its original order. Don’t worry about printing the list neatly,just print it as a raw Python list.
 
 •	 Use sorted() to print your list in alphabetical order without modifying the actual list.
